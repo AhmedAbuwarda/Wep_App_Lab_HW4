@@ -4,7 +4,7 @@
 
 # How to use it?
 
-### If you have express.js & express-generator:
+### If you have `express.js` & `express-generator`:
 
 1. Just clone the project.
 2. Open cmd and head to the project file.
