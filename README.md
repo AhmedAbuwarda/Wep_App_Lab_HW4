@@ -1,10 +1,10 @@
-#Wep_Application_Lab_HW4:
+# Wep_Application_Lab_HW4:
 
 **This is a simple app for `POST` and `GIT` methods using `Node.js` + `express.js`**
 
-#How to use it?
+# How to use it?
 
-###If you have express.js & express-generator:
+### If you have express.js & express-generator:
 
 1. Just clone the project.
 2. Open cmd and head to the project file.
@@ -15,7 +15,7 @@
 F:\Wep_Application_Lab_HW4\ECOM-5010-HW4> npm start
 ```
 
-###If you do not have express.js & express-generator:
+### If you do not have express.js & express-generator:
 
 1. first you need to clone the repo.
 2. you need to install express.js & express-generator.
@@ -23,7 +23,7 @@ F:\Wep_Application_Lab_HW4\ECOM-5010-HW4> npm start
    2. Also you can install `express-generator` from [here](https://expressjs.com/en/starter/generator.html).
 3. Run the project using: `npm start` like the previous one.
 
-#Running Samples:
+# Running Samples:
 * Type in your browser: `http://localhost:1234/`
   
 ![alt text](ECOM-5010-HW4/public/images/home.png)
@@ -44,7 +44,7 @@ F:\Wep_Application_Lab_HW4\ECOM-5010-HW4> npm start
 
 ![alt text](ECOM-5010-HW4/public/images/data2.png) 
 
-#Finally `about.html` page:
+# Finally `about.html` page:
 * **Type on your browser: `http://localhost:1234/about.html`**
 * The result is:
 
