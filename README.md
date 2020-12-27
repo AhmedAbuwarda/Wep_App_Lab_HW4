@@ -11,6 +11,7 @@
 3. Type: `npm start` or `node ./bin/www`
 
 **CMD EXAMPLE:**
+
 ```text
 F:\Wep_Application_Lab_HW4\ECOM-5010-HW4> npm start
 ```
@@ -24,6 +25,7 @@ F:\Wep_Application_Lab_HW4\ECOM-5010-HW4> npm start
 3. Run the project using: `npm start` like the previous one.
 
 # Running Samples:
+
 * Type in your browser: `http://localhost:1234/`
   
 ![alt text](ECOM-5010-HW4/public/images/home.png)
@@ -50,3 +52,5 @@ F:\Wep_Application_Lab_HW4\ECOM-5010-HW4> npm start
 * The result is:
 
 ![alt text](ECOM-5010-HW4/public/images/about.png)
+
+# `Thank you :)`
