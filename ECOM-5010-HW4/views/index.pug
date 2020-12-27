@@ -1,0 +1,10 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+
+  form(action='/data/submit', method='POST')
+    p Simple POST request for /data: 
+    input(type='text', name='data', id='data', value='', autofocus)
+    input(type='submit', id="submit", value='Submit')

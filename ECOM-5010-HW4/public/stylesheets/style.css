@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+a {
+  color: #00B7FF;
+}
+p {
+  padding: 10px 0px;
+  font-size: 20px;
+}
+#submit {
+  padding: 8px;
+  border: none;
+  border-radius: 6px;
+  background-color: #0069D9;
+  color: white;
+}
+#data {
+  padding: 5px;
+  margin: 3px;
+}
